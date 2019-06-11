@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Development"
+        android:icon="@drawable/abc"
+        android:orderInCategory="100"
+
+        android:title="Development" />
+    <item
+        android:id="@+id/Design"
+        android:icon="@drawable/color"
+        android:orderInCategory="100"
+        android:title="Design" />
+    <item
+        android:id="@+id/Marking"
+        android:icon="@drawable/pen"
+        android:orderInCategory="100"
+        android:title="Marking" />
+</menu>
